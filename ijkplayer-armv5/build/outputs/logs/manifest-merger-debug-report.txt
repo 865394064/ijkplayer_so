@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:4:5-5:37
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:4:5-5:37
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:4:5-5:37
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:4:5-5:37
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:4:5-5:37
+	android:targetSdkVersion
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:4:5-5:37
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml:5:9-34
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv5/src/main/AndroidManifest.xml

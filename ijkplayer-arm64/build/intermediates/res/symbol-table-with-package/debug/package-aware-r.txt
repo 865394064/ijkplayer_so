@@ -1,0 +1,2 @@
+tv.danmaku.ijk.media.player_arm64
+int string ijkplayer_dummy 0x7f150001

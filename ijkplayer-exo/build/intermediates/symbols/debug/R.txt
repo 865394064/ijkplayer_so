@@ -1,0 +1,2 @@
+int string app_name 0x7f150001
+int string ijkplayer_dummy 0x7f150002

@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":800102,"versionName":"0.8.1.2","enabled":true,"outputFile":"ijkplayer-example-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"tv.danmaku.ijk.media.example","split":"","minSdkVersion":"21"}}]

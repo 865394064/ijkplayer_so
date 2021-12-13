@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:2:1-86:12
+MERGED from [com.android.support:preference-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/466d3d0548c08f11334a38ee30258d7c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e1fcb1d8f29013268f98863e8faeb1a0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7a60750aef639cfd620f41dd43c852ed/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13f4ab12578d2a5c12e3c451dfeaa45a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/36de9600a86e31435724eac17c9bf994/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/aaeb729bcac3d26d6a5bafff97d45a8f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b2b54ff49b910b8e7a85ff13f14a4689/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/17062f7ad965f7fa578f00147a108768/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d9c5aeee794b20fddd66ed734e3f102e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/36ba7e4e82d2f23ab1729d09418af789/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88eb7a9b5e5bca23f05e2f50e9d65118/AndroidManifest.xml:17:1-31:12
+MERGED from [:ijkplayer-exo] /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-exo/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:ijkplayer-java] /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-java/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] /Users/hoge/.gradle/caches/transforms-1/files-1.1/exoplayer-r1.5.11.aar/04b3eca4b8981257f9f6d7e88bf2bf6a/AndroidManifest.xml:17:1-28:12
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:2:1-86:12
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:2:1-86:12
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:preference-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/466d3d0548c08f11334a38ee30258d7c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:preference-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/466d3d0548c08f11334a38ee30258d7c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e1fcb1d8f29013268f98863e8faeb1a0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e1fcb1d8f29013268f98863e8faeb1a0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7a60750aef639cfd620f41dd43c852ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7a60750aef639cfd620f41dd43c852ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13f4ab12578d2a5c12e3c451dfeaa45a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13f4ab12578d2a5c12e3c451dfeaa45a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/36de9600a86e31435724eac17c9bf994/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/36de9600a86e31435724eac17c9bf994/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/aaeb729bcac3d26d6a5bafff97d45a8f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/aaeb729bcac3d26d6a5bafff97d45a8f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b2b54ff49b910b8e7a85ff13f14a4689/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b2b54ff49b910b8e7a85ff13f14a4689/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/17062f7ad965f7fa578f00147a108768/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/17062f7ad965f7fa578f00147a108768/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d9c5aeee794b20fddd66ed734e3f102e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d9c5aeee794b20fddd66ed734e3f102e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/36ba7e4e82d2f23ab1729d09418af789/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/36ba7e4e82d2f23ab1729d09418af789/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88eb7a9b5e5bca23f05e2f50e9d65118/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88eb7a9b5e5bca23f05e2f50e9d65118/AndroidManifest.xml:21:5-23:58
+MERGED from [:ijkplayer-exo] /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-exo/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:ijkplayer-exo] /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-exo/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:ijkplayer-java] /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-java/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:ijkplayer-java] /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-java/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] /Users/hoge/.gradle/caches/transforms-1/files-1.1/exoplayer-r1.5.11.aar/04b3eca4b8981257f9f6d7e88bf2bf6a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] /Users/hoge/.gradle/caches/transforms-1/files-1.1/exoplayer-r1.5.11.aar/04b3eca4b8981257f9f6d7e88bf2bf6a/AndroidManifest.xml:24:5-26:41
+INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e1fcb1d8f29013268f98863e8faeb1a0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:7:9-38
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:6:9-35
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:15:22-73
+application
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:17:5-84:19
+MERGED from [com.android.support:preference-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/466d3d0548c08f11334a38ee30258d7c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:preference-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/466d3d0548c08f11334a38ee30258d7c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e1fcb1d8f29013268f98863e8faeb1a0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e1fcb1d8f29013268f98863e8faeb1a0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7a60750aef639cfd620f41dd43c852ed/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7a60750aef639cfd620f41dd43c852ed/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13f4ab12578d2a5c12e3c451dfeaa45a/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13f4ab12578d2a5c12e3c451dfeaa45a/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/aaeb729bcac3d26d6a5bafff97d45a8f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/aaeb729bcac3d26d6a5bafff97d45a8f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b2b54ff49b910b8e7a85ff13f14a4689/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b2b54ff49b910b8e7a85ff13f14a4689/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/17062f7ad965f7fa578f00147a108768/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/17062f7ad965f7fa578f00147a108768/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d9c5aeee794b20fddd66ed734e3f102e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d9c5aeee794b20fddd66ed734e3f102e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/36ba7e4e82d2f23ab1729d09418af789/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/36ba7e4e82d2f23ab1729d09418af789/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88eb7a9b5e5bca23f05e2f50e9d65118/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88eb7a9b5e5bca23f05e2f50e9d65118/AndroidManifest.xml:29:5-20
+MERGED from [:ijkplayer-exo] /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-exo/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-13:19
+MERGED from [:ijkplayer-exo] /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-exo/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-13:19
+	android:supportsRtl
+		ADDED from [:ijkplayer-exo] /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-exo/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:21:9-40
+activity#tv.danmaku.ijk.media.example.activities.FileExplorerActivity
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:22:9-33:20
+	android:screenOrientation
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:26:13-45
+	android:label
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:25:13-45
+	android:configChanges
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:24:13-74
+	android:theme
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:23:13-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:31:27-74
+activity#tv.danmaku.ijk.media.example.activities.SampleMediaActivity
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:34:9-40:20
+	android:screenOrientation
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:38:13-45
+	android:label
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:37:13-45
+	android:configChanges
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:36:13-74
+	android:theme
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:35:13-87
+activity#tv.danmaku.ijk.media.example.activities.RecentMediaActivity
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:41:9-47:20
+	android:screenOrientation
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:45:13-45
+	android:label
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:44:13-45
+	android:configChanges
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:43:13-74
+	android:theme
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:42:13-87
+activity#tv.danmaku.ijk.media.example.activities.SettingsActivity
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:48:9-53:47
+	android:screenOrientation
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:52:13-45
+	android:label
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:51:13-45
+	android:configChanges
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:50:13-74
+	android:theme
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:53:13-44
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:49:13-84
+activity#tv.danmaku.ijk.media.example.activities.VideoActivity
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:54:9-75:20
+	android:screenOrientation
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:58:13-45
+	android:label
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:57:13-45
+	android:configChanges
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:56:13-74
+	android:theme
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:59:13-51
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:55:13-81
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:audio/*+data:mimeType:video/*+data:scheme:file+data:scheme:http
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:60:13-68:29
+action#android.intent.action.VIEW
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:61:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:62:17-76
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:62:27-73
+data
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:64:17-52
+	android:scheme
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:66:23-44
+	android:mimeType
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:64:23-49
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:video/*
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:69:13-74:29
+action#android.intent.action.SEND
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:70:25-66
+service#tv.danmaku.ijk.media.example.services.MediaPlayerService
+ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:77:9-83:19
+	android:enabled
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:79:13-36
+	android:label
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:82:13-45
+	android:exported
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:80:13-37
+	android:icon
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:81:13-47
+	android:name
+		ADDED from /Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-example/src/main/AndroidManifest.xml:78:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/466d3d0548c08f11334a38ee30258d7c/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e1fcb1d8f29013268f98863e8faeb1a0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e1fcb1d8f29013268f98863e8faeb1a0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7a60750aef639cfd620f41dd43c852ed/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7a60750aef639cfd620f41dd43c852ed/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13f4ab12578d2a5c12e3c451dfeaa45a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13f4ab12578d2a5c12e3c451dfeaa45a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/36de9600a86e31435724eac17c9bf994/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/36de9600a86e31435724eac17c9bf994/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/aaeb729bcac3d26d6a5bafff97d45a8f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/aaeb729bcac3d26d6a5bafff97d45a8f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b2b54ff49b910b8e7a85ff13f14a4689/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/b2b54ff49b910b8e7a85ff13f14a4689/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/17062f7ad965f7fa578f00147a108768/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/17062f7ad965f7fa578f00147a108768/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d9c5aeee794b20fddd66ed734e3f102e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d9c5aeee794b20fddd66ed734e3f102e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/36ba7e4e82d2f23ab1729d09418af789/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/36ba7e4e82d2f23ab1729d09418af789/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88eb7a9b5e5bca23f05e2f50e9d65118/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88eb7a9b5e5bca23f05e2f50e9d65118/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:preference-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/466d3d0548c08f11334a38ee30258d7c/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:preference-v7:25.3.1] /Users/hoge/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/466d3d0548c08f11334a38ee30258d7c/AndroidManifest.xml:23:9-47

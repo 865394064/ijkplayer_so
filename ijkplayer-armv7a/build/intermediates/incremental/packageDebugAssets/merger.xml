@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv7a/src/main/assets"/><source path="/Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv7a/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/hoge/Desktop/work/package/github/ijkplayer/ijkplayer-armv7a/src/debug/assets"/></dataSet></merger>
